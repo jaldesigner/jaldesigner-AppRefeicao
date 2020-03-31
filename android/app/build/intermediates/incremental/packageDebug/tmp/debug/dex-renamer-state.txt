@@ -1,0 +1,4 @@
+#Fri Mar 13 03:38:15 GMT-03:00 2020
+base.0=C\:\\Users\\PRETO\\Google Drive\\Aplicativos\\refeicaoApp\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
